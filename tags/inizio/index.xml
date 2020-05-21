@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>My First Post</title>
+      <title>Hello World</title>
       <link>https://giuseppe-may.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 19 May 2020 16:34:45 +0200</pubDate>
       
       <guid>https://giuseppe-may.github.io/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here. Breve riassunto del tuo articolo. Il titolo magari.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;perché-un-sito-web&#34;&gt;Perché un sito web?&lt;/h1&gt;</description>
     </item>
     
   </channel>

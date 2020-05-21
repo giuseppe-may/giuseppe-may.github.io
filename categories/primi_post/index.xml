@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Ciao! Benvenuto nella mia galleria :)</title>
-    <link>https://giuseppe-may.github.io/posts/</link>
-    <description>Recent content in Posts on Ciao! Benvenuto nella mia galleria :)</description>
+    <title>Primi_Post on Ciao! Benvenuto nella mia galleria :)</title>
+    <link>https://giuseppe-may.github.io/categories/primi_post/</link>
+    <description>Recent content in Primi_Post on Ciao! Benvenuto nella mia galleria :)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 May 2020 16:34:45 +0200</lastBuildDate>
     
-	<atom:link href="https://giuseppe-may.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://giuseppe-may.github.io/categories/primi_post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
