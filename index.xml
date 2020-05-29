@@ -6,10 +6,19 @@
     <description>Recent content on Ciao! Benvenuto nella mia galleria :)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2020 16:34:45 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2020 18:07:52 +0200</lastBuildDate>
     
 	<atom:link href="https://giuseppe-may.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ci riproviamo</title>
+      <link>https://giuseppe-may.github.io/posts/20-05-29-title/</link>
+      <pubDate>Fri, 29 May 2020 18:07:52 +0200</pubDate>
+      
+      <guid>https://giuseppe-may.github.io/posts/20-05-29-title/</guid>
+      <description>&lt;p&gt;#Beh, alla fine due risposte le ho ottenute.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Hello World</title>
