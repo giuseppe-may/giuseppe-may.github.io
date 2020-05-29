@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>post_1 on Ciao! Benvenuto nella mia galleria :)</title>
+    <title>post_1 on Ciao! Benvenuto nella mia testa :)</title>
     <link>https://giuseppe-may.github.io/tags/post_1/</link>
-    <description>Recent content in post_1 on Ciao! Benvenuto nella mia galleria :)</description>
+    <description>Recent content in post_1 on Ciao! Benvenuto nella mia testa :)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 May 2020 18:07:52 +0200</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Fri, 29 May 2020 18:07:52 +0200</pubDate>
       
       <guid>https://giuseppe-may.github.io/posts/20-05-29-title/</guid>
-      <description>&lt;p&gt;#Beh, alla fine due risposte le ho ottenute.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;beh-alla-fine-due-risposte-le-ho-ottenute&#34;&gt;Beh, alla fine due risposte le ho ottenute.&lt;/h1&gt;</description>
     </item>
     
   </channel>
